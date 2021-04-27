@@ -1,0 +1,22 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webenot/react-shop.git"
+  },
+  "author": "webenot@mail.ua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webenot/react-shop/issues"
+  },
+  "homepage": "https://github.com/webenot/react-shop#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
